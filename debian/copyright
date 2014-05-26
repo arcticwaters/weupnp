@@ -1,0 +1,17 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: weupnp
+Source: https://github.com/bitletorg/weupnp
+
+Files: *
+Copyright: 2008-2014, Alessandro Bahgat Shehata
+License: LGPL-2.1
+
+Files: debian/*
+Copyright: 2014, Andrew Schurman <arcticwaters@gmail.com>
+License: LGPL-2.1
+
+License: LGPL-2.1
+ On Debian systems, the full text of the LGPL-2.1 license
+ can be found in the file '/usr/share/common-licenses/LGPL-2.1'
+
+

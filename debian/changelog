@@ -1,0 +1,5 @@
+weupnp (0.1.2-1) UNRELEASED; urgency=low
+
+  * Initial release (Closes: #749301)
+
+ -- Andrew Schurman <arcticwaters@gmail.com>  Sun, 25 May 2014 22:03:30 -0700
