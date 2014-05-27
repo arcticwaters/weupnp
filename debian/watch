@@ -1,0 +1,2 @@
+version=3
+https://github.com/bitletorg/weupnp/tags .*/archive/\S*?([0-9\.]+)\.tar\.gz

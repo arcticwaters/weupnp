@@ -14,10 +14,10 @@ Package: libweupnp-java
 Architecture: all
 Depends: ${misc:Depends}, ${maven:Depends}
 Suggests: ${maven:OptionalDepends}, libweupnp-java-doc
-Description: A tiny UPnP (Universl Plug and Play) library written in Java
+Description: Tiny UPnP library written in Java
  Weupnp is a lightweight Java library, released under the LGPL licence,
- designed to implement the UPnP protocol to handle port mappings on Gateway
- Devices.
+ designed to implement the UPnP (Universal Plug and Play) protocol to
+ handle port mappings on Gateway Devices.
 
 Package: libweupnp-java-doc
 Architecture: all
