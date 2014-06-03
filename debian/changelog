@@ -1,5 +1,5 @@
-weupnp (0.1.2-1) UNRELEASED; urgency=low
+weupnp (0.1.2-1) unstable; urgency=low
 
   * Initial release (Closes: #749301)
 
- -- Andrew Schurman <arcticwaters@gmail.com>  Sun, 25 May 2014 22:03:30 -0700
+ -- Daniel Pocock <daniel@pocock.pro>  Mon, 02 Jun 2014 21:35:23 +0200
