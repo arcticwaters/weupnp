@@ -3,7 +3,7 @@ Upstream-Name: weupnp
 Source: https://github.com/bitletorg/weupnp
 
 Files: *
-Copyright: 2008-2014, Alessandro Bahgat Shehata
+Copyright: 2008-2014, Alessandro Bahgat Shehata, Daniele Castagna
 License: LGPL-2.1
 
 Files: debian/*
